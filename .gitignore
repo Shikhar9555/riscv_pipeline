@@ -1,5 +1,5 @@
-# Icarus Verilog build outputs and waveforms
-*_sim
-*.vcd
-Zone.Identifier
-*:Zone.Identifier
+# Ignore everything except the ALU sources
+*
+!.gitignore
+!alu.v
+!alu_control.v
