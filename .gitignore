@@ -4,3 +4,5 @@
 !alu.v
 !alu_control.v
 !README.md
+!results/
+!results/*.png
