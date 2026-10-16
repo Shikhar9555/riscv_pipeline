@@ -1,0 +1,5 @@
+# Icarus Verilog build outputs and waveforms
+*_sim
+*.vcd
+Zone.Identifier
+*:Zone.Identifier
